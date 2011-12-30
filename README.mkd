@@ -3,3 +3,7 @@ Draw All Feynman Diagrams
 ファインマンダイアグラムを描画します
 
 ![](http://github.com/dekosuke/FeynmanDiagram/raw/master/img/test37.png)
+
+As to notation of Feynman Diagram, we refered 
+
+http://books.google.co.jp/books/about/Quantum_theory_of_many_particle_systems.html?id=0wekf1s83b0C&redir_esc=y
